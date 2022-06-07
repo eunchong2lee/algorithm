@@ -1,6 +1,8 @@
 // https://programmers.co.kr/learn/courses/30/lessons/12899
 // 124의 나라
 
+// 성공
+
 function solution(n) {
   var answer = '';
   const array = ['4','1','2']
